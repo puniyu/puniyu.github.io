@@ -1,0 +1,1 @@
+var e=`{"documentCount":1,"nextId":1,"documentIds":{"0":"/guide/start"},"fieldIds":{"title":0,"titles":1,"text":2},"fieldLength":{"0":[2,0,1]},"averageFieldLength":[2,0,1],"storedFields":{"0":{"title":"快速开始","titles":[]}},"dirtCount":0,"index":[["\\n",{"2":{"0":1}}],["开始",{"0":{"0":1}}],["快速",{"0":{"0":1}}]],"serializationVersion":2}`;export{e as default};
